@@ -17,3 +17,6 @@ Simple OpenTSDB dockerfile useful for work with Grafana.
   * creating tsdb tables
   * starting OpenTSDB
 * Supervisor restart opentsdb-uid-metasync with 60 sec interval
+
+
+OpenTSDB uid metasync need for work with Grafana templates.
